@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
+.farms__div {
+  margin: 5rem auto;
+}
+.farms {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.farms img {
+  width: 50%;
+}
+.farms h4 {
+  font-family: "Dancing Script", sans-serif;
+  margin: 2rem auto;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+}
+.farms p {
+  font-size: 0.9rem;
+  padding: 2rem 10rem;
+}
+.subscriber__about p {
+  font-size: 0.7rem;
+}
+@media (max-width: 767px) {
+  .farms img {
+    width: 100%;
+  }
+  .farms h4 {
+    font-size: 2rem;
+  }
+  .farms p {
+    padding: 2rem;
+  }
+}

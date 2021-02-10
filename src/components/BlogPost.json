@@ -1,0 +1,20 @@
+{
+    "best-organic" : {
+            "id":"best-organic",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkM2xuq7IqmNCqFIbO6B672Dt5hP_tD_JoTQ&usqp=CAU",
+            "title":"Best Organic Food Blogs | Healthy Lifestyle Blogs | Organic ...",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    "natural-food" : {
+            "id":"natural-food",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrXs9vVBAi5LQ1IPqTl4Jxd2hcx4wvQ5E5g&usqp=CAU",
+            "title":"The Best Natural Food Blogs of 2021",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    "conscious-food" : {
+            "id":"conscious-food",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBP6q-E1X_cyevXBo8yVnLFopYX985hbm_w&usqp=CAU",
+            "title":"Real Food: 10 Conscious Food Blogs And Who Should Read ...",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+}

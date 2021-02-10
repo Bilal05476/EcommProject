@@ -1,0 +1,58 @@
+.subTotal__main {
+  background-color: #ccc;
+  margin: 10rem auto;
+  padding: 2rem;
+}
+.subTotal {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+.subTotal p {
+  font-size: 2.5rem;
+  text-align: center;
+}
+.checkout__btn {
+  font-size: 1.2rem;
+  border: none;
+  letter-spacing: 0.1rem;
+  outline: none !important;
+  color: #303030;
+  font-weight: 900;
+  padding: 0.8rem;
+  border-radius: 2rem;
+}
+.checkout__btn:hover {
+  background-color: transparent !important;
+  transition: 0.5s;
+}
+.buyer__items {
+  display: flex;
+  font-size: 1.8rem;
+  margin: 2rem auto;
+}
+.select__items {
+  list-style: none;
+  padding-left: 1rem;
+}
+.bill {
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  margin-top: -4rem;
+  margin-bottom: 4rem;
+}
+@media (max-width: 767px) {
+  .subTotal__main {
+    margin: 3rem auto;
+  }
+  .subTotal p {
+    font-size: 1.9rem;
+  }
+}

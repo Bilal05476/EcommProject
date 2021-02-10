@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 72.5%;
+  font-family: "Montserrat", sans-serif;
+}
+.goToShop {
+  color: green !important;
+}
+.detailsProduct {
+  padding-left: 3rem !important;
+}
+@media (max-width: 767px) {
+  .detailsProduct {
+    padding-left: 0 !important;
+  }
+}

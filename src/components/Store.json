@@ -1,0 +1,21 @@
+{
+    "store-product1":{
+        "id": "store-product1",
+        "img": "https://images.vexels.com/media/users/3/143047/isolated/preview/b0c9678466af11dd45a62163bdcf03fe-fast-food-hamburger-flat-icon-by-vexels.png",
+        "title": "Fair Prices For You",
+        "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt facilis nisi non sint temporibus odio nulla quae esse libero asperiores."
+    },
+    "store-product2":{
+        "id": "store-product2",
+        "img": "https://images.vexels.com/media/users/3/143047/isolated/preview/b0c9678466af11dd45a62163bdcf03fe-fast-food-hamburger-flat-icon-by-vexels.png",
+        "title": "Fair Prices For You",
+        "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt facilis nisi non sint temporibus odio nulla quae esse libero asperiores."
+    },
+    "store-product3":{
+        "id": "store-product3",
+        "img": "https://images.vexels.com/media/users/3/143047/isolated/preview/b0c9678466af11dd45a62163bdcf03fe-fast-food-hamburger-flat-icon-by-vexels.png",
+        "title": "Fair Prices For You",
+        "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt facilis nisi non sint temporibus odio nulla quae esse libero asperiores."
+    }
+
+}

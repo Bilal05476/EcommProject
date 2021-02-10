@@ -1,0 +1,102 @@
+
+{
+    "egg-free-mayo" : {
+        "id":"egg-free-mayo",  
+        "img":"https://static01.nyt.com/images/2016/05/11/dining/11JPAQUAFABA3-WEB/11JPAQUAFABA3-WEB-articleLarge-v2.jpg",
+        "title":"Egg Free Mayo",
+        "price":10.00
+    },
+    "organic-brocoli" : {
+            "id":"organic-brocoli",  
+            "img":"https://spud-res.cloudinary.com/w_600/f_auto,q_auto,c_fill,w_600,e_improve:30,e_sharpen:60/spudca/Products/-766911402.jpg",
+            "title":"Organic Brocoli",
+            "price":18.00
+    },
+    "strawberries" : {
+            "id":"strawberries",  
+            "img":"https://cdn.britannica.com/22/75922-050-D3982BD0/flowers-fruits-garden-strawberry-plant-species.jpg",
+            "title":"Strawberries",
+            "price":15.00
+    },
+    "lemon-glass" : {
+            "id":"lemon-glass",  
+            "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lemon-juice-royalty-free-image-510180395-1531432390.jpg",
+            "title":"Lemon 250ml Glass",
+            "price":14.00
+    },
+    "fresh-cherry" : {
+            "id":"fresh-cherry",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwEo4gnwXrrG0uwkycDSOqQY2N2ZuVxpKZg&usqp=CAU",
+            "title":"Fresh Cherry",
+            "price":12.00
+    },
+    "juice-carrot-and-apple" : {
+            "id":"juice-carrot-and-apple",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ65vT9FVmP2QzBZLMBznOG0kc99T7bHwZfA&usqp=CAU",
+            "title":"Juice Carrot and Apple",
+            "price":40.00
+    },
+    "organic-banana" : {
+            "id":"organic-banana",  
+            "img":"https://www.ecoviaint.com/wp-content/uploads/2018/08/organicbanans.jpg",
+            "title":"Organic Banana",
+            "price":30.00
+    },
+    "fresh-food" : {
+            "id":"fresh-food",  
+            "img":"https://www.madridtourstickets.com/wp-content/uploads/2018/05/vegie_php_opt.jpg",
+            "title":"Fresh Food",
+            "price":20.00
+    },
+    "egg-mayo" : {
+            "id":"egg-mayo",  
+            "img":"https://www.dictionary.com/e/wp-content/uploads/2018/12/mayo-4.jpg",
+            "title":"Egg Mayo",
+            "price":20.00
+    },
+    "inorganic-brocoli" : {
+            "id":"inorganic-brocoli",  
+            "img":"https://spud-res.cloudinary.com/w_600/f_auto,q_auto,c_fill,w_600,e_improve:30,e_sharpen:60/spudca/Products/-766911402.jpg",
+            "title":"Inorganic Brocoli",
+            "price":18.00
+    },
+    "chocolate-strawberries-cake" : {
+            "id":"chocolate-strawberries-cake",  
+            "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chocolate-strawberry-cake-1585318865.jpg",
+            "title":"Chocolate Strawberry Cake",
+            "price":30.00
+    },
+    "lemon-glass-chill" : {
+            "id":"lemon-glass-chill",  
+            "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lemon-juice-royalty-free-image-510180395-1531432390.jpg",
+            "title":"Lemon 550ml Glass",
+            "price":20.00
+    },
+    "fresh-cherry-cake" : {
+            "id":"fresh-cherry-cake",  
+            "img":"https://data.thefeedfeed.com/recommended/post_1700307.jpg",
+            "title":"Fresh Cherry Cake",
+            "price":32.00
+    },
+    "juice-carrot" : {
+            "id":"juice-carrot",  
+            "img":"https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/10/carrot-juice-1296x728-header.jpg?w=1155&h=1528",
+            "title":"Juice Carrot",
+            "price":20.00
+    },
+    "juice-apple" : {
+            "id":"juice-apple",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeO8RM8fw8j1LuYjYZmgk8LJqNW2y6h3KXg&usqp=CAU",
+            "title":"Juice Apple",
+            "price":20.00
+    },
+    "fresh-food-shake" : {
+            "id":"fresh-food-shake",  
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWl61zKQ2Pf4LZLIjoKoZ7itkrtfqOpXdpA&usqp=CAU",
+            "title":"Fresh Food Shake",
+            "price":22.00
+    }
+}
+
+
+

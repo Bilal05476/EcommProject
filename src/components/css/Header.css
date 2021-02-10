@@ -1,0 +1,109 @@
+.secondary__header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.secondary__header > h3 {
+  font-size: 0.9rem;
+  margin: 1rem auto;
+  color: rgb(190, 190, 190) !important;
+}
+.credential {
+  background-color: transparent;
+  border: none;
+  outline: none !important;
+  color: greenyellow;
+}
+.navbar {
+  background-color: #fff;
+}
+.logo img {
+  font-size: 3rem;
+  width: 70px;
+  height: 70px;
+}
+.navigation .nav-item {
+  margin: auto 0.2rem;
+  font-size: 1.3rem;
+}
+.navigation .basket {
+  margin-top: -0.5rem;
+  font-size: 2.5rem !important;
+}
+.span:hover {
+  text-decoration: none !important;
+}
+.navbar-toggler {
+  outline: none !important;
+  border: none !important;
+}
+.line {
+  width: 2rem;
+  height: 0.2rem;
+  background-color: black;
+  margin: 0.4rem auto;
+}
+.modal {
+  margin-top: 4rem;
+}
+.modal-header {
+  border-bottom: none;
+}
+.modal-title {
+  font-size: 1.2rem !important;
+}
+.modal-body {
+  padding: 4rem;
+}
+.modal-body input {
+  outline: none !important;
+  border-radius: 0.2rem !important;
+  border: 0.1rem solid black !important;
+  font-size: 1.1rem;
+  letter-spacing: 0.1rem;
+  padding: 0.5rem;
+  width: 60%;
+}
+.modal-body h4 {
+  font-weight: bold;
+  font-size: 1.9rem;
+}
+.sign__btn {
+  width: 60%;
+  background-color: green !important;
+  color: #fff;
+}
+.close {
+  font-size: 2.2rem;
+  outline: none !important;
+  clear: both;
+  color: green;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 767px) {
+  .nav-item {
+    font-size: 1.5rem !important;
+    margin-left: 1.2rem !important;
+    margin-top: 0.2rem !important;
+  }
+  .navigation .basket {
+    margin-top: -0.5rem;
+    font-size: 2.5rem !important;
+  }
+  .logo img {
+    width: 50px;
+    height: 50px;
+  }
+  .modal-body {
+    padding: 2rem;
+  }
+  .modal-body input {
+    width: 80%;
+  }
+}

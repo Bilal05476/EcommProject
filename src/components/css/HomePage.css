@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
+.homepage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 8rem;
+  padding-bottom: 10rem;
+  margin-top: 11rem;
+}
+.homepage h2 {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 2rem;
+}
+.homepage h5 {
+  font-size: 4rem;
+  letter-spacing: 0.1rem;
+  font-family: "Dancing Script", sans-serif;
+  text-align: center;
+}
+.homepage p {
+  margin: 1rem 4rem;
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+}
+.store__div,
+.product__div {
+  padding: 5rem;
+}
+
+.store__div h2,
+.deal__div h2 {
+  font-weight: bold;
+}
+.store__div .line,
+.product__div .line {
+  width: 3rem;
+  height: 0.1rem;
+  background-color: green;
+  margin: 0.4rem auto;
+}
+.store__div h5 {
+  font-weight: bold;
+}
+.store__div p {
+  font-size: 1rem;
+}
+.image__div,
+.image__div2,
+.image__div3 {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-radius: 50%;
+  background-color: rgb(255, 164, 255);
+}
+.image__div2 {
+  background-color: rgb(134, 255, 165);
+}
+.image__div3 {
+  background-color: rgb(255, 226, 164);
+}
+.deal__div {
+  background-color: rgb(27, 104, 27);
+  padding: 4rem;
+}
+.deal__div h2 {
+  font-family: "Dancing Script", sans-serif;
+  font-size: 4.2rem;
+  color: #fff;
+}
+.div1,
+.div2 {
+  margin-top: 2rem;
+}
+.div1 p,
+.div2 p {
+  font-size: 0.8rem;
+}
+.div1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: right;
+}
+.div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  margin-top: 4rem;
+}
+.price__div,
+.subscriber__div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+.price__div h2,
+.subscriber__div h2 {
+  font-weight: bold;
+}
+.subscriber__div h2 {
+  font-size: 1.2rem;
+}
+.price,
+.subs {
+  padding: 4rem;
+  padding-top: 1.5rem;
+  background-color: #fff;
+  width: 30%;
+  margin-top: -6rem;
+}
+.input__div {
+  display: flex;
+}
+.input__div input {
+  font-size: 0.9rem;
+  padding: 1.2rem;
+  letter-spacing: 0.1rem;
+  border-radius: 2rem;
+}
+.input__div button {
+  border-radius: 2rem;
+  margin-left: -2.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (max-width: 767px) {
+  .homepage {
+    margin-top: 9rem;
+  }
+  .price,
+  .subs {
+    width: 90%;
+  }
+  .product__div {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}

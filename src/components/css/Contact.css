@@ -1,0 +1,30 @@
+.contact__div1,
+.contact__div2 {
+  font-size: 1.8rem;
+}
+.contact__div1 {
+  margin-top: 5rem;
+  margin-left: 3rem;
+  margin-bottom: 5rem;
+}
+.contact__div2 {
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+.contact__div2 p {
+  font-size: 0.8rem;
+}
+.contact__div2 input,
+.contact__div2 textarea {
+  border: none;
+  outline: none;
+}
+.map {
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .contact__div1 {
+    margin-left: 1rem;
+  }
+}

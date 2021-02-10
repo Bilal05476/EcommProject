@@ -1,0 +1,20 @@
+{
+    "from-our-farm" : {
+            "id":"from-our-farm",  
+            "img":"https://www.supercryptonews.com/wp-content/uploads/2021/01/COVID-19-Relief_Small-Farms-.jpg",
+            "title":"Certified organic products - Fresh from our farms",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    "beautiful-farm" : {
+            "id":"beautiful-farm",  
+            "img":"https://i.pinimg.com/originals/3f/af/a5/3fafa558e1d5c4804461aaef6f9e3806.jpg",
+            "title":"Take a look at our beautiful farm",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    "quality-trust" : {
+            "id":"quality-trust",  
+            "img":"https://www.seoclerks.com/files/user/images/trust-quality-service.jpg",
+            "title":"Taste and quality you can trust, price you'll love!",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+}

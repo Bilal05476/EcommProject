@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
+.product__details {
+  background-color: rgb(27, 104, 27);
+  margin-top: 11rem;
+}
+.product__details h5 {
+  font-family: "Dancing Script", sans-serif;
+  padding: 4rem;
+  font-size: 3rem;
+}
+.details__div {
+  display: flex;
+  flex-direction: row;
+  font-size: 2rem;
+}
+.nuturition h5 {
+  font-weight: bold;
+}
+.product__detail__img {
+  width: 280px;
+  height: 200px;
+  margin-top: 1.2rem;
+}
+@media (max-width: 992px) {
+  .details__div {
+    flex-direction: column;
+    padding: 2rem;
+  }
+  .product__detail__img {
+    width: 100%;
+    margin-top: 1.2rem;
+  }
+}

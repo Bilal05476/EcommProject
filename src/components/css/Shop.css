@@ -1,0 +1,11 @@
+.shop__div {
+  margin-top: 11rem;
+}
+.breadcrumb {
+  margin-top: -0.4rem;
+  margin-bottom: 0.1rem;
+  padding: 0.4rem;
+}
+.breadcrumb-item {
+  font-size: 1.5rem;
+}
