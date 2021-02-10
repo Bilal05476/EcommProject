@@ -43,7 +43,7 @@ const Shop = () => {
               return (
                 <div key={ind} className='col-md-3'>
                   <Card
-                    id={product.id}
+                    id={product.data.id}
                     img={product.data.img}
                     title={product.data.title}
                     price={product.data.price}
